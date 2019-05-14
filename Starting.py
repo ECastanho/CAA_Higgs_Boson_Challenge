@@ -4,6 +4,7 @@ Created on Tue May 14 00:39:47 2019
 
 @author: Eduar
 """
+
 #Loading Libraries
 import numpy as np
 from sklearn.preprocessing import StandardScaler
