@@ -3,6 +3,8 @@
 Created on Tue May 14 00:39:47 2019
 
 @author: Eduar
+
+This script handles the preprocessing of the data
 """
 
 #Loading Libraries
