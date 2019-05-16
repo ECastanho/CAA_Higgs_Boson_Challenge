@@ -1,0 +1,7 @@
+
+
+https://simplyml.com/hunt-for-the-higgs-boson-using-out-of-core-machine-learning/
+
+https://nycdatascience.com/blog/student-works/top2p-higgs-boson-machine-learning/
+
+https://dbaumgartel.wordpress.com/2014/06/15/the-kaggle-higgs-challenge-beat-the-benchmarks-with-scikit-learn/
