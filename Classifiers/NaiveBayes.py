@@ -31,9 +31,9 @@ def AMSScore(s,b):
 # loading data. I am assumind that this data already comes with no header, and that it is already pre-processed 
 # Signal (s) is coded as 1 and background is coded as 0
 
-data_train =  np.loadtxt( 'data_train_normalized.csv', delimiter=',')
+data_train =  np.loadtxt( './Data/data_train_normalized.csv', delimiter=',')
 
-data_test =  np.loadtxt( 'data_test_normalized.csv', delimiter=',')
+data_test =  np.loadtxt( './Data/data_test_normalized.csv', delimiter=',')
 
 # random seed to allow reproductivity
 np.random.seed(42)
